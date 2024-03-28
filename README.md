@@ -1,2 +1,2 @@
 # web statis
- belajar web sitatiscg
+ belajar web sitatisc
