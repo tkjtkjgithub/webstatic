@@ -12,17 +12,14 @@
 <body>
      
      <style>
-       nav{
-        background: rgb(187,189,151);
-background: linear-gradient(18deg, rgba(187,189,151,1) 100%, rgba(209,121,80,1) 100%);
-       }
+       
        span{
         font-weight: bold;
        }
      </style>
      
-   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-       <div class="container-fluid">
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+       <div class="container-fluid ">
          <a class="navbar-brand " 
          href="#"><img src="imgaes/berita.jpg" alt="" width="35" height="24" class=" align-text-top "> <span class="text-black h3 ">CRYPTO <span class=" text-danger h3">PUNK</span> </span> </a>
          
@@ -39,7 +36,7 @@ background: linear-gradient(18deg, rgba(187,189,151,1) 100%, rgba(209,121,80,1) 
                <a class="nav-link text-light" href="?m=profil">PROFIL</a>
              </li>
              <li class="nav-item dropdown">
-               <a class="nav-link dropdown-toggle text-light" href="?m=latihan" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+               <a class="nav-link dropdown-toggle text-light" href="m=latihan" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                  TUTORIAL
                </a>
                <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
